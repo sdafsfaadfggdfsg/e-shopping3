@@ -1,0 +1,1 @@
+In this particular example, it indicates that 6 lines have been extracted starting from line number 34 and 8 lines have been added starting at line number 34.
